@@ -1,6 +1,6 @@
 # Outstanding Orders, Changing Delivery Promises & Recorded Activity
 
-![Power BI Dashboard](Delivery%20Promises%20and%Recorded%20Activity.png)
+![Power BI Dashboard](Delivery%20Promises%20and%20Recorded%20Activity.png)
 
 ## Overview
 
